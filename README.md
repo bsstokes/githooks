@@ -1,3 +1,3 @@
-h1. My Git Hooks
+# My Git Hooks
 
 A place to keep my git hooks.
